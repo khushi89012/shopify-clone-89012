@@ -18,7 +18,7 @@ compaign, campaign preveiw page and track campaign status , sections are the par
 <br>
 ![Capture](https://user-images.githubusercontent.com/95909861/165848574-dbc6ba4d-d62a-452a-b03b-6d69a6505246.PNG)
 
-![Capture](https://user-images.githubusercontent.com/95909861/165848412-ab9cdc6e-8d77-44c1-b423-9932e11bc96e.PNG)
+
 
 
 
