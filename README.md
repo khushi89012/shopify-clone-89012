@@ -13,6 +13,7 @@ compaign, campaign preveiw page and track campaign status , sections are the par
 <li>Json server</li>
 
 <h2>Login Page</h2>
-![Capture](https://user-images.githubusercontent.com/95909861/165848344-2b4e9336-14d8-43a8-93be-5a29cf2de8e1.PNG)
+![Capture](https://user-images.githubusercontent.com/95909861/165848412-ab9cdc6e-8d77-44c1-b423-9932e11bc96e.PNG)
+
 
 
