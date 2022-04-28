@@ -16,9 +16,10 @@ compaign, campaign preveiw page and track campaign status , sections are the par
 
 <h2>Login Page</h2>
 <br>
-![Capture](https://user-images.githubusercontent.com/95909861/165848574-dbc6ba4d-d62a-452a-b03b-6d69a6505246.PNG)
+![Capture](https://user-images.githubusercontent.com/95909861/165848723-0e0d9895-d4f1-4433-9942-07dadd57c087.PNG)
 
 
+<h3><i>we really enjoyed this whole part of developing and haad a learing experience and have given our best efforts to bring the BEST thing as POSSIBLE.</i></h3>
 
 
 
